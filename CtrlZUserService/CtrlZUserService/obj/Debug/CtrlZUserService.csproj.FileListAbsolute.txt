@@ -1,0 +1,6 @@
+J:\Projects\CtrlZUserService\CtrlZUserService\bin\CtrlZUserService.dll.config
+J:\Projects\CtrlZUserService\CtrlZUserService\bin\CtrlZUserService.dll
+J:\Projects\CtrlZUserService\CtrlZUserService\bin\CtrlZUserService.pdb
+J:\Projects\CtrlZUserService\CtrlZUserService\obj\Debug\CtrlZUserService.csprojResolveAssemblyReference.cache
+J:\Projects\CtrlZUserService\CtrlZUserService\obj\Debug\CtrlZUserService.dll
+J:\Projects\CtrlZUserService\CtrlZUserService\obj\Debug\CtrlZUserService.pdb

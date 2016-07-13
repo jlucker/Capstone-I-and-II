@@ -1,0 +1,34 @@
+﻿<Window x:Class="MyoDataServiceTestUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyoDataServiceTestUI"
+        mc:Ignorable="d"
+        Title="Myo Data Test" Height="587" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Label x:Name="EmgLabel" Content="" HorizontalAlignment="Left" Margin="166,41,0,0" VerticalAlignment="Top" Width="600" FontSize="10.667"/>
+        <Button x:Name="EmgButton" Content="EMG Data" HorizontalAlignment="Left" Margin="21,44,0,0" VerticalAlignment="Top" Width="130" Click="EmgButton_Click"/>
+        <Button x:Name="GyroButton" Content="Gyro Data" HorizontalAlignment="Left" Margin="21,104,0,0" VerticalAlignment="Top" Width="130" Click="GyroButton_Click"/>
+        <Label x:Name="GyroLabel" Content="" HorizontalAlignment="Left" Margin="166,101,0,0" VerticalAlignment="Top" Width="600" FontSize="10.667"/>
+        <Button x:Name="AccelButton" Content="Accel Data" HorizontalAlignment="Left" Margin="20,163,0,0" VerticalAlignment="Top" Width="130" Click="AccelButton_Click"/>
+        <Label x:Name="AccelLabel" Content="" HorizontalAlignment="Left" Margin="165,160,0,0" VerticalAlignment="Top" Width="600" FontSize="10.667"/>
+        <Button x:Name="OrientationButton" Content="Orientation Data" HorizontalAlignment="Left" Margin="21,223,0,0" VerticalAlignment="Top" Width="130" Click="OrientationButton_Click"/>
+        <Label x:Name="OrientationLabel" Content="" HorizontalAlignment="Left" Margin="166,220,0,0" VerticalAlignment="Top" Width="600" FontSize="10.667"/>
+        <Button x:Name="OrientationEulerButton" Content="Orientation Euler Data" HorizontalAlignment="Left" Margin="20,283,0,0" VerticalAlignment="Top" Width="130" Click="OrientationEulerButton_Click"/>
+        <Label x:Name="OrientationEulerLabel" Content="" HorizontalAlignment="Left" Margin="165,280,0,0" VerticalAlignment="Top" Width="604" FontSize="10.667"/>
+        <Button x:Name="CombineButton" Content="Combine Data" HorizontalAlignment="Left" Margin="21,400,0,0" VerticalAlignment="Top" Width="130" Click="CombineButton_Click" Height="40"/>
+        <TextBox x:Name="GestureTextBox" HorizontalAlignment="Left" Margin="200,361,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="130"/>
+        <TextBox x:Name="UsernameTextBox" HorizontalAlignment="Left" Margin="21,361,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="130"/>
+        <Label x:Name="label" Content="Username:" HorizontalAlignment="Left" Margin="21,335,0,0" VerticalAlignment="Top" Width="77" RenderTransformOrigin="0.5,0.712"/>
+        <Label x:Name="label1" Content="Gesture:" HorizontalAlignment="Left" Margin="200,335,0,0" VerticalAlignment="Top" Width="81"/>
+        <Label x:Name="InfoLabel" Content="Sending..." HorizontalAlignment="Left" Margin="200,407,0,0" VerticalAlignment="Top" Width="115" Visibility="Hidden"/>
+        <Label x:Name="TimeLabel" Content="Time Taken: " HorizontalAlignment="Left" Margin="335,407,0,0" VerticalAlignment="Top" Width="90"/>
+        <Label x:Name="TimeTakenLabel" Content="" HorizontalAlignment="Left" Margin="434,407,0,0" VerticalAlignment="Top" Width="108"/>
+        <Button x:Name="MyoCaptureButton" Content="Capture Myo Data" HorizontalAlignment="Left" Margin="21,488,0,0" VerticalAlignment="Top" Width="130" Height="40" Click="MyoCaptureButton_Click"/>
+        <Label x:Name="CaptureTimeLabel1" Content="Capture Time:" HorizontalAlignment="Left" Margin="185,495,0,0" VerticalAlignment="Top" Width="85"/>
+        <Label x:Name="CaptureTimeLabel" Content="" HorizontalAlignment="Left" Margin="279,488,0,0" VerticalAlignment="Top" Width="56" FontSize="21.333"/>
+        <Label x:Name="TimeLabel_Copy" Content="Time Taken: " HorizontalAlignment="Left" Margin="335,495,0,0" VerticalAlignment="Top" Width="90"/>
+        <Label x:Name="MyoTimeLabel" Content="" HorizontalAlignment="Left" Margin="434,495,0,0" VerticalAlignment="Top" Width="90"/>
+    </Grid>
+</Window>

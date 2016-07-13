@@ -1,0 +1,57 @@
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\ApplicationInsights.config
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\CtrlZDataService.dll.config
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\CtrlZDataService.dll
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\CtrlZDataService.pdb
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.Agent.Intercept.dll
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.DependencyCollector.dll
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.Web.dll
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.WindowsServer.dll
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\Microsoft.ApplicationInsights.dll
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.DependencyCollector.xml
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.Web.xml
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.WindowsServer.xml
+J:\Projects\CtrlZDataService\CtrlZDataService\bin\Microsoft.ApplicationInsights.xml
+J:\Projects\CtrlZDataService\CtrlZDataService\obj\Release\CtrlZDataService.dll
+J:\Projects\CtrlZDataService\CtrlZDataService\obj\Release\CtrlZDataService.pdb
+J:\Projects\CtrlZDataService\CtrlZDataService\obj\Release\CtrlZDataService.csprojResolveAssemblyReference.cache
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\ApplicationInsights.config
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\CtrlZDataService.dll.config
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\CtrlZDataService.dll
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\CtrlZDataService.pdb
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.Web.dll
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.Web.xml
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\obj\Release\CtrlZDataService.csprojResolveAssemblyReference.cache
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\obj\Release\CtrlZDataService.dll
+C:\Users\risin\Documents\GitHub\CTRL-Z\CtrlZDataService\CtrlZDataService\obj\Release\CtrlZDataService.pdb
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\ApplicationInsights.config
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\CtrlZDataService.dll.config
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\CtrlZDataService.dll
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\CtrlZDataService.pdb
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.Web.dll
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.Web.xml
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\obj\Release\CtrlZDataService.csprojResolveAssemblyReference.cache
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\obj\Release\CtrlZDataService.dll
+C:\Users\Risingdamp\Dropbox (ASU)\ASU Spring 2016\CSE 486\CTRL-Z\CtrlZDataService\CtrlZDataService\obj\Release\CtrlZDataService.pdb

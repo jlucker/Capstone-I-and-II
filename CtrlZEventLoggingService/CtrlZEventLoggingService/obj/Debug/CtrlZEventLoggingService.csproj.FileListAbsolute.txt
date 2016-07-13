@@ -1,0 +1,6 @@
+J:\Projects\CtrlZEventLoggingService\CtrlZEventLoggingService\bin\CtrlZEventLoggingService.dll.config
+J:\Projects\CtrlZEventLoggingService\CtrlZEventLoggingService\bin\CtrlZEventLoggingService.dll
+J:\Projects\CtrlZEventLoggingService\CtrlZEventLoggingService\bin\CtrlZEventLoggingService.pdb
+J:\Projects\CtrlZEventLoggingService\CtrlZEventLoggingService\obj\Debug\CtrlZEventLoggingService.csprojResolveAssemblyReference.cache
+J:\Projects\CtrlZEventLoggingService\CtrlZEventLoggingService\obj\Debug\CtrlZEventLoggingService.dll
+J:\Projects\CtrlZEventLoggingService\CtrlZEventLoggingService\obj\Debug\CtrlZEventLoggingService.pdb

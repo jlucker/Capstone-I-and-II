@@ -1,0 +1,30 @@
+c:\users\alejandra\documents\visual studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\bin\Debug\MyoCaptureUI.exe.config
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\bin\Debug\MyoCaptureUI.exe
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\bin\Debug\MyoCaptureUI.pdb
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI.csprojResolveAssemblyReference.cache
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\obj\Debug\MainWindow.g.cs
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\obj\Debug\App.g.cs
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI_MarkupCompile.cache
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI_MarkupCompile.lref
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\obj\Debug\MainWindow.baml
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI.g.resources
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI.Properties.Resources.resources
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI.csproj.GenerateResource.Cache
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI.exe
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI.pdb
+C:\Users\Alejandra\Documents\Visual Studio 2015\Projects\MyoCaptureUI\MyoCaptureUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\bin\Debug\MyoCaptureUI.exe.config
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI.exe
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI.pdb
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\bin\Debug\MyoCaptureUI.exe
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\bin\Debug\MyoCaptureUI.pdb
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI.csprojResolveAssemblyReference.cache
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\obj\Debug\MainWindow.g.cs
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\obj\Debug\App.g.cs
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI_MarkupCompile.cache
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI_MarkupCompile.lref
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\obj\Debug\MainWindow.baml
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI.g.resources
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI.Properties.Resources.resources
+C:\Users\Risingdamp\Documents\GitHub\CTRL-Z\MyoCaptureUI\MyoCaptureUI\obj\Debug\MyoCaptureUI.csproj.GenerateResource.Cache
